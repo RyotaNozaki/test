@@ -1,4 +1,4 @@
-package com.internousdev.dao;
+package com.internousdev.login.dao;
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;

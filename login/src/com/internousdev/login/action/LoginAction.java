@@ -1,4 +1,4 @@
-package com.internousdev.action;
+package com.internousdev.login.action;
 
 import java.sql.SQLException;
 import java.util.Map;

@@ -5,7 +5,7 @@ create database logindb;
 use logindb;
 
 create table user(
-if int,
+id int(11),
 user_name varchar(255),
 password varchar(255)
 );
